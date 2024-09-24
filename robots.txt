@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sqtoa.github.io/NSk/sitemap.NSk.gz
